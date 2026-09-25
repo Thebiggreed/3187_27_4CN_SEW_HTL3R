@@ -4,6 +4,9 @@ Modul-Dokumentation -- Ähnlich zu JavaDoc.
 Wird angezeigt z.B. mit help(__name__)
 Dieses Modul beinhaltet Funktionen zur Berechnung der Fläche und der
 Diagonale eines Rechtecks.
+
+Doctests:
+
 """
 
 
